@@ -22,7 +22,7 @@ The goal of this project is to move beyond tutorial-level backend development an
 
 ---
 
-# 🧠 What You’ll Learn
+# 🧠 What I'd Learn
 
 ## Phase 1 — Backend Foundations
 - HTTP Request-Response lifecycle
